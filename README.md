@@ -5,10 +5,6 @@
 
 In this section, you'll learn about two additional data types: JSON and XML. Both are extensively used on the web, XML being the older of the two formats, and JSON being the new standard data format for the web. Additionally, you'll also learn about recursive python functions.
 
-## Objectives
-You will be able to:
-* Have a brief overview of JSON, XML, and recursive functions
-
 ## Working with JSON and XML
 
 A substantial part of the job of a professional data scientist is to find and access data. You've spent a bunch of time looking at how to pull information from relational databases, but there is lots of information you might need to work with that is either not in a relational database, or that is not exposed to you via a relational database. 
